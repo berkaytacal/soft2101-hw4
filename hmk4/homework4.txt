@@ -1,0 +1,36 @@
+QUESTION A
+Git config output:
+
+user.email=berkaytacall@gmail.com
+user.name=Berkay Tacal
+core.editor=notepad
+
+QUESTION B
+Contents of .git directory:
+
+hooks
+info
+logs
+objects
+refs
+COMMIT_EDITMSG
+config
+description
+HEAD
+index
+ORIG_HEAD
+packed-refs
+
+QUESTION F / J
+Commit history:
+
+1d23078 (HEAD -> main, feature-3, feature-2, feature-1) satisfying requirement one
+015b427 setting up gitignore
+e1d4dfe (origin/main, origin/HEAD) Initial commit
+
+Branches:
+
+  feature-1
+  feature-2
+  feature-3
+* main
