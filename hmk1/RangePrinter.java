@@ -6,11 +6,9 @@ public class RangePrinter {
         int end = Math.max(a, b);
 
         for (int i = start; i < end; i++) {
-    if (i % 2 == 0) {
-        System.out.println(i);
+            System.out.println(i);
+        }
     }
-}
-
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -19,4 +17,3 @@ public class RangePrinter {
         printRange(x, y);
     }
 }
-
